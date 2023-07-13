@@ -14,7 +14,7 @@ A few things about me:
 
 I have more to present about myself, that I hope to show in the form of my own personal website/portfolio. As of the time this is 
 being typed (07/01/2023), I'm currently practicing my frontend/backend skills, while also brushing up upon my data structures
-and algorithms, which are the most essential topics any programmer needs to know. 
+and algorithms.
 
 If you found my Github, thank you for taking the time to read! By reading this you have exceeded the amount of people I intended 
 to write this for (zero). Feel free to connect with me at https://www.linkedin.com/in/matthias-gabel/.
