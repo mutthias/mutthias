@@ -13,8 +13,9 @@ A few things about me:
         efficient mind requires a clean and healthy body.
 
 I have more to present about myself, that I hope to show in the form of my own personal website/portfolio. As of the time this is 
-being typed (07/01/2023), I'm currently practicing my frontend/backend skills, while also brushing up upon my data structures
-and algorithms.
+being typed (09/21/2023), I've completed two projects that have deepened my understanding and honed my skills for fullstack development.
+I still need to create a portfolio, I've been doing my best to balance working on projects + studying for interviews + working 40 hours
+a week + hobbies and a social life (I'm quite busy, some things are a necessity and some for my happiness)!
 
 If you found my Github, thank you for taking the time to read! By reading this you have exceeded the amount of people I intended 
 to write this for (zero). Feel free to connect with me at https://www.linkedin.com/in/matthias-gabel/.
