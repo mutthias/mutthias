@@ -1,9 +1,12 @@
 👋 Hi, I’m Matthias, but you can call me Matt! 
 
-I'm a new grad computer science major at the University of California, Davis. I'm currently an IT software engineer with 
-experience in full-stack development, as well as an interest in machine learning, AI, and data science applications. 
-Outside of school and programming, I partake in a variety of hobbies, such as playing instruments, fitness, thrifting, 
-and cooking.
+I'm a new grad computer science major at the University of California, Davis. I'm currently an IT Specialist at 
+Pacific BioLabs with aexperience in full-stack development, as well as an interest in machine learning, AI, and 
+data science applications. Outside of school and programming, I partake in a variety of hobbies, such as fitness, 
+thrifting, cooking and especially music. I play a variety of instruments, as well as listen to a variety of music 
+genres. 
+
+I enjoy combining my hobbies into programming projects, especially those related to music.
 
 If you found my Github, thank you for taking the time to read! 
 
